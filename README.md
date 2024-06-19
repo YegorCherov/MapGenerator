@@ -102,12 +102,13 @@ Here are some potential future enhancements for the procedural terrain generatio
 
 ## Credits
 
-The procedural terrain generation system was developed by [Your Name] using Unity and C#.
+The procedural terrain generation system was developed by Rozcy using Unity and C#.
 
 The project utilizes the following third-party assets and resources:
 
 - [Perlin Noise](https://docs.unity3d.com/ScriptReference/Mathf.PerlinNoise.html) - Built-in Unity function for generating Perlin noise.
 - [Unity Tilemap](https://docs.unity3d.com/Manual/class-Tilemap.html) - Unity's built-in 2D tilemap system for efficient rendering.
+- [Graphics](https://sanctumpixel.itch.io/) - 2D Pixel Art
 
 ## License
 
