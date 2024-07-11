@@ -37,7 +37,7 @@
 
 To get started with the procedural terrain generation system, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/procedural-terrain-generation.git`
+1. Clone the repository: `git clone https://github.com/YegorCherov/procedural-terrain-generation.git`
 2. Open the project in Unity.
 3. Explore the `Scenes` folder and open the main scene.
 4. Adjust the terrain generation settings in the `MapGenerator` script inspector.
